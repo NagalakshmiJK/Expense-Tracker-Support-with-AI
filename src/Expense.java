@@ -1,6 +1,7 @@
 
 public class Expense {
 	private int Food,Shopping,Medical,Travel,Rent,Entertainment,SavingAmount,EMI,Miscellaneous;
+
 	
 	public int getFoodExpense() {
 		return Food;
