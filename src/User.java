@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class User {
 	private String Username,Password;
 //	Authentication auth = new Authentication();
+	
 	public void Userdetail(Authentication auth) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Username : ");
