@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class AddExpenseDetails {
 	private int Salary,Food,Shopping,Medical,Travel,Rent,Entertainment,EMI,Miscellaneous,SavingAmount;
 	Scanner sc = new Scanner(System.in);
